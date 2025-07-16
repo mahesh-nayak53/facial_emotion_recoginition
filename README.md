@@ -56,6 +56,4 @@ This project presents a comparative study of various traditional and deep learni
 **Mahesh Nayak**  
 [GitHub](https://github.com/mahesh-nayak53) | [LinkedIn](https://www.linkedin.com/in/mahesh-nayak-008159281/)
 
-## 📃 License
 
-This project is open-sourced for academic and research purposes only.
